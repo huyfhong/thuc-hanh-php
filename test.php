@@ -1,3 +1,3 @@
 <?php
-echo "con cho khoa";
+echo "con cho khoa ngu ";
 ?>
