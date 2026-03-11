@@ -1,3 +1,3 @@
 <?php
-echo "con cho khoa dmmcc ";
+echo "con cho khoa ngu ";
 ?>
