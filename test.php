@@ -1,3 +1,3 @@
 <?php
-echo "test 123";
+echo "con cho khoa";
 ?>
